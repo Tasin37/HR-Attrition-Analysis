@@ -58,4 +58,4 @@ iii.Support HR teams in improving:
     iv. Workforce planning
 
 7. **Screenshots:**
-![HR Attrition Dashboard]([docs/Screenshots/hr_dashboard.png](https://github.com/Tasin37/HR-Attrition-Analysis/blob/main/HR%20Attrition%20Analysis.png))
+![HR Attrition Dashboard](https://github.com/Tasin37/HR-Attrition-Analysis/blob/main/HR%20Attrition%20Analysis.png)
