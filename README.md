@@ -28,14 +28,13 @@ The dashboard includes multiple performance and demographic KPIs:
 | Attrition by Gender | Male: 140, Female: 79 |
 
 4. **Attrition Breakdown Visuals:**
-| Insights Category | Visualization Type   | Key Observations                                     |
-| ----------------- | -------------------- | ---------------------------------------------------- |
-| Education Field   | Donut Chart          | Highest attrition in Life Sciences & Medical domains |
-| Age Groups        | Bar Chart            | Age 26-35 most affected                              |
-| Job Role          | Bar Chart & Table    | Sales & Labs have high turnover                      |
-| Salary Slab       | Horizontal Bar Chart | Employees earning ≤ 5K most affected                 |
-| Years at Company  | Line Chart           | Peak attrition early in tenure (1–2 years)           |
-| Gender            | Bar Chart            | More attrition among males                           |
+Insights Category,Visualization Type,Key Observations
+Education Field,Donut Chart,Highest attrition in Life Sciences & Medical domains
+Age Groups,Bar Chart,Age 26-35 most affected
+Job Role,Bar Chart & Table,Sales & Labs have high turnover
+Salary Slab,Horizontal Bar Chart,Employees earning ≤ 5K most affected
+Years at Company,Line Chart,Peak attrition early in tenure (1–2 years)
+Gender,Bar Chart,More attrition among males
 
 5. **Dashboard Filters:**
 Department Filter
